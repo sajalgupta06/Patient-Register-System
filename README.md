@@ -18,7 +18,7 @@ email id - sajalinternship@gmail.com
 password-@Internship1
 
 ## Postman Link 
-https://documenter.getpostman.com/view/15290580/TzCTY4vs
+https://documenter.getpostman.com/view/15290580/TzCTYQ2j#f8a904ac-4cd0-4cd9-88db-a2c773895e47
 
 
 
